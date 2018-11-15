@@ -3,7 +3,7 @@ p{
 }
 
 
-$''page-title {
+#page-title {
   font-size: 32pt;
   font-weight: bold;
 }
@@ -37,4 +37,5 @@ $''page-title {
   /*gerd kardane ghaleb*/
   /*background: :url(https://sites.psu.edu/siowfa16/files/2016/10/YeDYzSR-10apkm4.png)
   background-size:contain;*/
+
 }

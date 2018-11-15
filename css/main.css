@@ -31,5 +31,8 @@ $''page-title {
   border-color: black;
   border-style: dashed;
   /*taqirat dar border */
-
+  cursor: pointer;
+  /*ghabele click mishe*/
+  border-radius: 16px;
+  /*gerd kardane ghaleb*/
 }

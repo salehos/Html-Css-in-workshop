@@ -28,5 +28,8 @@ $''page-title {
   margin: 40px;
   box-sizing: border-box;
   /* border + padding + width + height  = box size*/
+  border-color: black;
+  border-style: dashed;
+  /*taqirat dar border */
 
 }

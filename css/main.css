@@ -1,0 +1,13 @@
+p{
+  color: red;
+}
+$''page-title {
+  font-size: 32pt;
+  font-weight: bold;
+}
+.title{
+  color: yellow;
+}
+.bold {
+  font-weight: bold;
+}

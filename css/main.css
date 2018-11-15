@@ -24,7 +24,9 @@ $''page-title {
   width: 100px;
   height: 100px;
   padding: 30px;
-  pading ha age 2 taei bedim top+bot va right+left ba ham mishan age 4 taei top bot chap rast . . .
+  /*pading ha age 2 taei bedim top+bot va right+left ba ham mishan age 4 taei top bot chap rast . . .*/
   margin: 40px;
+  box-sizing: border-box;
+  /* border + padding + width + height  = box size*/
 
 }
